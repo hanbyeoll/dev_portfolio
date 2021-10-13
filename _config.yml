@@ -1,0 +1,8 @@
+# Site Settings
+locale                   : "en-US"
+title                    : "Portfolio Page"
+title_separator          : "-"
+subtitle                 : Project Code fall 2020 - Portfolio page
+name                     : "Han"
+description              : "Assignment3"
+url                      : "https://hanbyeoll.github.io/dev_portfolio/"
